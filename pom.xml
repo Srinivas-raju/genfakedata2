@@ -21,8 +21,8 @@
     </repository>
   </distributionManagement>
   <plugin>
-    <groupId>net.alchim31.maven</groupId>
-    <artifactId>scala-maven-plugin</artifactId>
+    <groupId>com.bit</groupId>
+    <artifactId>genfakedata</artifactId>
     ...
     <configuration>
         <args>
